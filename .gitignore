@@ -25,3 +25,5 @@ production/
 # Autorouter files (exported from Pcbnew)
 *.dsn
 *.ses
+
+jlcpcb/

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SN75LVDS83B")(type "KiCad")(uri "${KIPRJMOD}/lib/SN75LVDS83B/SN75LVDS83B.kicad_sym")(options "")(descr ""))
+  (lib (name "RPi_Hat")(type "Legacy")(uri "${KIPRJMOD}/lib/RPi_Hat_Template/RPi_Hat.lib")(options "")(descr ""))
+  (lib (name "20374-R30E-31")(type "KiCad")(uri "${KIPRJMOD}/lib/20374-R30E-31/20374-R30E-31.kicad_sym")(options "")(descr ""))
+)
