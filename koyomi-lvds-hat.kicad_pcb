@@ -942,7 +942,7 @@
 		(descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
 		(tags "solder jumper open")
 		(property "Reference" "JP1"
-			(at 0 -1.8 90)
+			(at 0 -1.9 90)
 			(layer "F.SilkS")
 			(uuid "6b6790ab-626a-4cf2-8bc9-1aedb55bfb86")
 			(effects
@@ -955,6 +955,7 @@
 		(property "Value" "CLKSEL"
 			(at 0 1.9 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "3ce1f853-4fa3-4d76-b677-124e69475d1d")
 			(effects
 				(font
@@ -1911,6 +1912,17 @@
 			(pinfunction "SHIELD__1")
 			(pintype "passive")
 			(uuid "0b3e0909-fa0d-4d4b-bbc0-f277948045b6")
+		)
+		(model "${KIPRJMOD}/lib/20374-R30E-31/20374-R30E-31.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 180)
+			)
 		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical"
@@ -4605,6 +4617,17 @@
 			(pintype "bidirectional")
 			(uuid "3a05cefd-81ec-4c57-8871-7f43ef617a1e")
 		)
+		(model "${KIPRJMOD}/lib/RPi_Hat_Template/Samtec_HLE-120-02-XXX-DV-BE-XX-XX.stp"
+			(offset
+				(xyz 0 0 0.1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 90)
+			)
+		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -4928,7 +4951,7 @@
 			)
 		)
 		(property "Value" "SN75LVDS83B"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "aa177531-47d1-4f17-aa1b-ef7f994ee771")
 			(effects
@@ -4963,7 +4986,7 @@
 			)
 		)
 		(property "Description" "\n5/0 Driver LVDS 56-BGA MICROSTAR JUNIOR (7.0x4.5)\n"
-			(at 123.5 50 0)
+			(at 123.5 50 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ec41c413-7944-46f1-a2b6-982103168fcd")
@@ -4974,7 +4997,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f8a47dae-1498-44fe-ab9d-123db69560da")
@@ -4986,7 +5009,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/SN75LVDS83B/Texas+Instruments/view-part/?ref=eda"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e507e38d-e67c-4a48-8ae3-07ff284c1604")
@@ -4998,7 +5021,7 @@
 			)
 		)
 		(property "DIGIKEY" "296-24529-6-ND"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ae4f489a-0969-4d43-b253-895e8e690484")
@@ -5010,7 +5033,7 @@
 			)
 		)
 		(property "MF" "Texas Instruments"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b1dfe43d-7966-4648-b6bf-409fb3aa7bc1")
@@ -5022,7 +5045,7 @@
 			)
 		)
 		(property "MP" "SN75LVDS83B"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "59c20b20-fa1d-4e76-a3e7-25556cf6dda6")
@@ -5034,7 +5057,7 @@
 			)
 		)
 		(property "Package" "TFSOP-56 Texas Instruments"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "925f8b5f-f488-4abf-863e-39c8e7f76c7f")
@@ -5046,7 +5069,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "69656c2c-5123-421a-bb5f-d0f13e8205db")
@@ -5058,7 +5081,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SN75LVDS83B/Texas+Instruments/view-part/?ref=snap"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0097c568-9c52-4056-b855-f5bae24a2cfe")
@@ -5683,6 +5706,17 @@
 			(pintype "bidirectional")
 			(uuid "bf913efc-00bb-4cd8-aa39-509d382d4c41")
 		)
+		(model "${KIPRJMOD}/lib/SN75LVDS83B/SN75LVDS83B.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 90)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -6229,7 +6263,7 @@
 		(descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
 		(tags "solder jumper open")
 		(property "Reference" "JP2"
-			(at 0 -1.8 90)
+			(at 0 -1.9 90)
 			(layer "F.SilkS")
 			(uuid "4f9c7be7-2207-4458-b096-eef43219193e")
 			(effects
@@ -6242,6 +6276,7 @@
 		(property "Value" "SHTDN"
 			(at 0 1.9 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "2654a615-7d72-4e08-aefe-90eaf31f5a54")
 			(effects
 				(font
@@ -7513,15 +7548,15 @@
 			(pintype "passive")
 			(uuid "fbc2e85c-1afc-4b6f-b7bd-6e298cae74f4")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/lib/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 1.35 -0.3)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -11847,6 +11882,28 @@
 				(thickness 0.2)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "SHTDN"
+		(at 104.6 56.7 90)
+		(layer "F.SilkS")
+		(uuid "17521fc8-0766-477c-8fe9-d1732e4e265e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "CLKSEL"
+		(at 98.6 56.5 90)
+		(layer "F.SilkS")
+		(uuid "61e84b25-9a32-4a4f-9993-9af4ed1d74a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
 		)
 	)
 	(gr_text "Project Koyomi\nLVDS hat v1\nby Exentio"
