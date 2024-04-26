@@ -3,4 +3,5 @@
   (lib (name "SN75LVDS83B")(type "KiCad")(uri "${KIPRJMOD}/lib/SN75LVDS83B")(options "")(descr ""))
   (lib (name "RPi_Hat_Template")(type "KiCad")(uri "${KIPRJMOD}/lib/RPi_Hat_Template")(options "")(descr ""))
   (lib (name "20374-R30E-31")(type "KiCad")(uri "${KIPRJMOD}/lib/20374-R30E-31")(options "")(descr ""))
+  (lib (name "exentio_art")(type "KiCad")(uri "${KIPRJMOD}/lib/exentio_art")(options "")(descr ""))
 )
