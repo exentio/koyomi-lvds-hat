@@ -5,14 +5,12 @@ for more.
 The purpose of this Raspberry Pi hat is to test and play around with the
 display of the Vaio P before further development of the motherboard.  
 
-**⚠️ WARNING: at the moment of writing, the board works, but there are issues
-with color reproduction. It's suggested to avoid getting a board until the
-cause of the issue is found (hardware or software).**  
+The board is currently tested and working [as shown here](https://blog.exentio.sexy/2024/05/09/project-koyomi-update-3.html)!
 
 The board uses Texas Instruments' SN75LVDS83B LVDS transmitter using the Pi's
-DPI signals to send video out to the display. I might consider dropping DPI and
-replacing it with a DVI receiver to free up the Raspberry's GPIO, but those ICs
-tend to be bulky so it'll be considered in the later stages of development.  
+DPI signals to send video out to the display. The final motherboard will use a
+DVI receiver to free up the Raspberry's GPIO, a small converter board is in
+development and [you can find it here](https://github.com/exentio/koyomi-hdmi-lvds).  
 
 The display connector is made by I-PEX, and the model numbers are
 `20374-030E-31`/`20374-R30E-31`, they're the same but the 0 variant seems to be
@@ -40,8 +38,6 @@ framebuffer_height=768
 dtoverlay=i2c-gpio,i2c_gpio_sda=23,i2c_gpio_scl=24
 disable_overscan=1
 ```
-Keep in mind the aforementioned issues with color reproduction.  
-
 ---
 
 Huge thanks to Arya ([@CRImier](https://github.com/CRImier)) for her help during most phases of the design!
