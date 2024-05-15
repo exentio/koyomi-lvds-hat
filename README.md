@@ -19,11 +19,10 @@ The display, in my case a LT080EE04100 by Toshiba (it should be the same for
 all Vaio Ps), has no backlight driver, and for that the backlight pins are
 broken out, allowing testing of different drivers.  
 The driver will be controlled using software I2C since all the hardware I2C
-pims are already used by DPI. The assigned GPIOs are 23 for SDA and 24 for SCL.
+pins are already used by DPI. The assigned GPIOs are 23 for SDA and 24 for SCL.
 More info about software I2C on [this page](https://learn.adafruit.com/raspberry-pi-i2c-clock-stretching-fixes/software-i2c).
 
-The current configuration being tested in `config.txt` (on top of the default)
-is:  
+The current settings used in `config.txt` (on top of the default) is:  
 ```
 dtparam=i2c_arm=off
 dtparam=spi=off
