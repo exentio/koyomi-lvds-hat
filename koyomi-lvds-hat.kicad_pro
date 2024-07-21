@@ -82,6 +82,7 @@
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -490,7 +491,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "../../../../../home/ex/kicad/footprints/RPi_Hat_Template/RPi_Hat.net",
-      "plot": "",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "koyomi-lvds-hat.dsn",
       "step": "",
@@ -501,6 +502,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

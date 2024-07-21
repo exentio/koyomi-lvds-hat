@@ -26,4 +26,5 @@ production/
 *.dsn
 *.ses
 
-jlcpcb/
+jlcpcb/gerber/
+jlcpcb/production_files/
