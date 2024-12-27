@@ -7,6 +7,10 @@ display of the Vaio P before further development of the motherboard.
 
 The board is currently tested and working [as shown here](https://blog.exentio.sexy/2024/05/09/project-koyomi-update-3.html)!
 
+The production of this board **has been sponsored by [JLCPCB](https://jlcpcb.com)**,
+they're my trusted PCB manufacturer and the recommended manufacturer for these
+boards.  
+
 The board uses Texas Instruments' SN75LVDS83B LVDS transmitter using the Pi's
 DPI signals to send video out to the display. The final motherboard will use a
 DVI receiver to free up the Raspberry's GPIO, a small converter board is in
