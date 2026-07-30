@@ -88,7 +88,7 @@
 	(pad "1" smd rect
 		(at -0.7501 -0.475)
 		(size 0.25 0.55)
-		(layers "F.Cu" "F.Paste")
+		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.0508)
 		(thermal_bridge_angle 0)
 		(uuid "9a8cc8fa-7d97-46fa-891c-40d0a86c4aba")
@@ -96,7 +96,7 @@
 	(pad "2" smd rect
 		(at -0.7501 0.475)
 		(size 0.25 0.55)
-		(layers "F.Cu" "F.Paste")
+		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.0508)
 		(thermal_bridge_angle 0)
 		(uuid "5a3ace78-c518-4bea-a698-5f4d29fdf73c")
@@ -104,7 +104,7 @@
 	(pad "3" smd rect
 		(at -0.2499 -0.475)
 		(size 0.25 0.55)
-		(layers "F.Cu" "F.Paste")
+		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.0508)
 		(thermal_bridge_angle 0)
 		(uuid "64053d54-b996-4496-9616-b9a6d731f5cd")
@@ -112,7 +112,7 @@
 	(pad "4" smd rect
 		(at -0.2499 0.475)
 		(size 0.25 0.55)
-		(layers "F.Cu" "F.Paste")
+		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.0508)
 		(thermal_bridge_angle 0)
 		(uuid "a268eb88-510c-4e01-8b3d-636e546a0ba2")
@@ -120,7 +120,7 @@
 	(pad "5" smd rect
 		(at 0.2499 -0.475)
 		(size 0.25 0.55)
-		(layers "F.Cu" "F.Paste")
+		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.0508)
 		(thermal_bridge_angle 0)
 		(uuid "a3768d93-cc8f-40c0-9a37-650065ca8434")
@@ -128,7 +128,7 @@
 	(pad "6" smd rect
 		(at 0.2499 0.475)
 		(size 0.25 0.55)
-		(layers "F.Cu" "F.Paste")
+		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.0508)
 		(thermal_bridge_angle 0)
 		(uuid "d45a4892-4093-40c1-9b4b-2c7881cca070")
@@ -136,7 +136,7 @@
 	(pad "7" smd rect
 		(at 0.7501 -0.475)
 		(size 0.25 0.55)
-		(layers "F.Cu" "F.Paste")
+		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.0508)
 		(thermal_bridge_angle 0)
 		(uuid "8bf2fe72-eaae-49d2-b503-48f2e9680703")
@@ -144,7 +144,7 @@
 	(pad "8" smd rect
 		(at 0.7501 0.475)
 		(size 0.25 0.55)
-		(layers "F.Cu" "F.Paste")
+		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.0508)
 		(thermal_bridge_angle 0)
 		(uuid "c7c3f861-88e3-44d2-a6fc-a3c2dce13127")

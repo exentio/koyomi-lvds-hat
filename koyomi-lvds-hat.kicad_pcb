@@ -525,7 +525,7 @@
 		(pad "1" smd rect
 			(at -0.7501 -0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 79 "Net-(IC1-Y1P)")
 			(pinfunction "1")
 			(pintype "passive")
@@ -536,7 +536,7 @@
 		(pad "2" smd rect
 			(at -0.7501 0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 90 "RX1+")
 			(pinfunction "2")
 			(pintype "passive")
@@ -547,7 +547,7 @@
 		(pad "3" smd rect
 			(at -0.2499 -0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 80 "Net-(IC1-Y1M)")
 			(pinfunction "3")
 			(pintype "passive")
@@ -558,7 +558,7 @@
 		(pad "4" smd rect
 			(at -0.2499 0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 89 "RX1-")
 			(pinfunction "4")
 			(pintype "passive")
@@ -569,7 +569,7 @@
 		(pad "5" smd rect
 			(at 0.2499 -0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 81 "Net-(IC1-Y0P)")
 			(pinfunction "5")
 			(pintype "passive")
@@ -580,7 +580,7 @@
 		(pad "6" smd rect
 			(at 0.2499 0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 88 "RX0+")
 			(pinfunction "6")
 			(pintype "passive")
@@ -591,7 +591,7 @@
 		(pad "7" smd rect
 			(at 0.7501 -0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 82 "Net-(IC1-Y0M)")
 			(pinfunction "7")
 			(pintype "passive")
@@ -602,7 +602,7 @@
 		(pad "8" smd rect
 			(at 0.7501 0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 87 "RX0-")
 			(pinfunction "8")
 			(pintype "passive")
@@ -3765,7 +3765,7 @@
 		(pad "1" smd rect
 			(at -0.7501 -0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 84 "Net-(IC1-CLCKOUTP)")
 			(pinfunction "1")
 			(pintype "passive")
@@ -3776,7 +3776,7 @@
 		(pad "2" smd rect
 			(at -0.7501 0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 93 "RXCLK+")
 			(pinfunction "2")
 			(pintype "passive")
@@ -3787,7 +3787,7 @@
 		(pad "3" smd rect
 			(at -0.2499 -0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 85 "Net-(IC1-CLCKOUTM)")
 			(pinfunction "3")
 			(pintype "passive")
@@ -3798,7 +3798,7 @@
 		(pad "4" smd rect
 			(at -0.2499 0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 94 "RXCLK-")
 			(pinfunction "4")
 			(pintype "passive")
@@ -3809,7 +3809,7 @@
 		(pad "5" smd rect
 			(at 0.2499 -0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 83 "Net-(IC1-Y2P)")
 			(pinfunction "5")
 			(pintype "passive")
@@ -3820,7 +3820,7 @@
 		(pad "6" smd rect
 			(at 0.2499 0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 91 "RX2+")
 			(pinfunction "6")
 			(pintype "passive")
@@ -3831,7 +3831,7 @@
 		(pad "7" smd rect
 			(at 0.7501 -0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 86 "Net-(IC1-Y2M)")
 			(pinfunction "7")
 			(pintype "passive")
@@ -3842,7 +3842,7 @@
 		(pad "8" smd rect
 			(at 0.7501 0.475)
 			(size 0.25 0.55)
-			(layers "F.Cu" "F.Paste")
+			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 92 "RX2-")
 			(pinfunction "8")
 			(pintype "passive")
