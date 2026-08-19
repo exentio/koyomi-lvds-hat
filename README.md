@@ -50,6 +50,8 @@ You're also welcome to make changes to any part of this project to implement
 different design choices, without having to send a pull request; however, if
 your fork takes a completely different direction from Koyomi and breaks
 compatibility, I kindly ask you to drop the name "Koyomi" from your project.
+Please also remove every art on the PCB, if possible (wouldn't make sense to
+have my face on a completely different project anyway).  
 This can't and won't be enforced, so I'm just asking informally to please
 respect this request, if you want to use my designs.  
 
