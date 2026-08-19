@@ -39,4 +39,37 @@ disable_overscan=1
 ```
 ---
 
+### Forking guidelines
+I hope that this design will inspire people to work on similar projects, and
+that they'll be used as references to learn how to work on similar projects!  
+If you want to make any contribution, you're welcome to fork and send a pull
+request, as long as LLMs are not directly involved and you understand your
+changes!  
+
+You're also welcome to make changes to any part of this project to implement
+different design choices, without having to send a pull request; however, if
+your fork takes a completely different direction from Koyomi and breaks
+compatibility, I kindly ask you to drop the name "Koyomi" from your project.
+This can't and won't be enforced, so I'm just asking informally to please
+respect this request, if you want to use my designs.  
+
+### Commercial use
+I purposely decided to allow commercial use for this project for two reasons: I
+would be happy if modernized Vaio Ps and Koyomi were to be used in professional
+contexts, and to let people distribute PCBs so everyone can build their own,
+without having to sell parts myself, which is not something I can handle.  
+
+If you plan to sell boards and parts, I only have these simple requests:  
+- Please make them reasonably affordable and don't mark them up absurdly, I
+want this project to be approachable from every point of view.  
+- If you're profiting from reselling my designs, please donate something back
+to the people who made the designs you're selling.  
+- Don't remove any drawings/art on the PCBs, but you're allowed to add your own.  
+
+None of these can and will be enforced, so I'm just asking you to respect the
+time and hard work the other contributors and I have poured into designing
+Koyomi.
+
+---
+
 Huge thanks to Arya ([@CRImier](https://github.com/CRImier)) for her help during most phases of the design!
