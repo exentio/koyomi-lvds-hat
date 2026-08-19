@@ -80,6 +80,166 @@
         [
           "courtyards_overlap|148890000|45035000|86e157b3-ccab-4db6-bc53-9eb5ebee7952|978b8496-ae87-41a7-8c70-659aa73048c8",
           ""
+        ],
+        [
+          "hole_clearance|101910000|24118600|5a82fa35-c410-4c5c-bf80-3fff3decd219|84ce3fe9-9a62-4c42-8e72-154798e0bf7c",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|101910000|27881800|3f7c9810-4cef-4c4f-876a-6248fb0f5b4e|8e5e5214-90f7-48be-8d20-45fb9644b286",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|104450000|24118600|61675303-45bb-46d0-a416-a6e8e0344465|44f48c24-6c78-42dd-b861-547f5e2a57a3",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|104450000|27881800|07c20691-75dd-4f57-bc73-85485d256136|a3eb43e4-de5a-4b7d-8faa-83d907fa6ca5",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|106990000|24118600|108b01dd-eeba-44bd-8e21-666b6484383b|680493b9-c80f-428c-be76-7cfb389e972d",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|106990000|27881800|b414575e-024c-4766-ae24-0b1c883f46e2|854eb565-d51e-4eb7-bb4b-8ed51addf351",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|109530000|24118600|aae66ba5-0f33-488e-a84c-7afab227fd96|f286c5c4-378a-46f3-84c1-d7f2dff76a48",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|109530000|27881800|d8e20f7e-be03-4d2b-a419-a73f325e559c|6cf97ab0-c8e7-4455-be75-65e67aac3658",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|112070000|24118600|071a5f7f-7252-41ef-9b53-a8ac4d8949b0|fc360ede-4a52-4ee1-b268-e31d5e141651",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|112070000|27881800|49261753-0c47-4f76-a8c1-14d6d198237b|ed62661e-8da4-41b1-be6f-9a119def8b5e",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|114610000|24118600|387816be-3bbf-481c-944c-c0540a9c930b|e4fd9b66-b6e4-49ea-997b-666b1f364f80",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|114610000|27881800|ade8654e-8817-493f-ae38-1914eaff8d5e|e125ef16-10bd-424b-bc0d-b2dc92b6316c",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|117150000|24118600|2dc48232-113f-4b5b-82e8-5416cbd0ac98|5f3d4535-38e6-47b8-811d-352945d347fd",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|117150000|27881800|e607b413-b50e-4767-847a-91bd67691ac9|d191420e-4a16-4ae5-8990-7efa2a440250",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|119690000|24118600|19babe20-3bee-4faf-b44e-cff1bd558fc7|72bc4f81-7cc5-47c9-b048-aa41c05d7b48",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|119690000|27881800|a449b630-3e6e-44be-a56a-b1f911cb2d18|abefcb27-796a-4773-bdb5-0e1cec409bc3",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|122230000|24118600|5b47a2d4-ec95-47dd-8df9-6ab4cf0ee14d|035a4997-e939-4ec1-a69c-6ce974148b03",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|122230000|27881800|4e05745f-96ac-439a-884a-b30b256db2e3|959233a8-80ec-4c6a-b1de-6001864b21ba",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|124770000|24118600|6875c100-0bfe-492c-a538-81215e079f8c|1a11b18d-0a91-42dc-a2b6-55a7149f174a",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|124770000|27881800|5fd622a1-603a-4c37-b9ab-be85a30654b7|61b0ad6b-455d-48e5-b51b-8ee3e391abaf",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|127310000|24118600|226db3ec-4f6f-45b2-b02a-1588a343e641|e9ef1132-074b-420e-b445-3f769eec5677",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|127310000|27881800|ff734edc-6b20-4fec-95b6-e6c3b0e9394d|ae2e8880-3eba-41e1-bc22-94238a3182ad",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|129850000|24118600|b5d4b398-3e55-4091-a7da-3dca958a92c3|145f2870-2b0f-454c-bef7-2916e89a97c6",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|129850000|27881800|42883c74-c0c9-4445-b2d6-2ded52edfd16|3a3009dd-a786-4dd5-86a3-adba94ca4896",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|132390000|24118600|36a66e44-b719-4ec7-8587-12960ce69c9d|36a25e36-cb8c-419f-ac6e-c67cde1abe13",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|132390000|27881800|4696b13e-d37d-49e5-ab82-1a3d25d9bcdf|f9520a12-a8f2-4ddd-9de3-f8e5dc986e70",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|134930000|24118600|1c1a6ec9-1de2-4d7c-86e5-3f90ea48ee9c|0fef0a21-4765-4c86-8e98-5ef2c7eff0ff",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|134930000|27881800|30fa99c2-0949-48df-a50f-31e784490601|5cc035b2-bfbe-48cc-9394-84e85be39bac",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|137470000|24118600|5ece93c9-64a4-46ae-bc3d-752d5a731198|0c5836c1-e700-4247-9e68-e7226a5eaf79",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|137470000|27881800|aee09bda-cd64-474e-8295-ba25e8b536f5|7ef4fa96-8d9b-457e-8f25-bfd4de9552cd",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|140010000|24118600|ea1098d1-4332-409c-b36e-6c4c9a2ed039|746fedd4-5fa2-44c6-a4d9-9bfa130ee33d",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|140010000|27881800|2ff2f248-4498-454a-b645-536e14be303a|98bb0e80-f408-4747-b5da-fae544fee45c",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|142550000|24118600|30296ba6-a9e1-4623-9a71-a8bbb8a98013|53c705fc-733e-4548-b552-9137b8e35cde",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|142550000|27881800|f2a1bee9-3765-4a2f-9233-45922d10f0cc|a8290f75-8fb3-4270-b012-0db2172116a6",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|145090000|24118600|bfaa271e-e495-45cf-aab9-90c778d1cde8|92312ff9-985f-40de-b7ca-43fd114d370c",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|145090000|27881800|525d6697-fb72-4c8a-9d00-5d5b7627de6b|267cc93c-e38d-450d-9d44-7dc5e337c64c",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|147630000|24118600|d38d2d92-a1d3-464b-b6cf-91dc9f504b53|d42fd772-b8df-4596-a0ca-1ce5289e5a8c",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|147630000|27881800|82156b5a-b7e3-4bd0-9fab-387250ba9361|1d61ac99-b3b2-4f81-9bc9-1fd25a0a45d1",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|99370000|24118600|b8ed42b7-1566-4c54-9823-964be96f1650|07a2ef68-ef27-415c-8ff5-a2beb3799ec4",
+          "No problem for this footprint"
+        ],
+        [
+          "hole_clearance|99370000|27881800|36d79b51-8c6f-410d-a4cf-83a1cc6da577|64b772a7-4b1e-46ed-b6e2-ebc6d73a99d8",
+          "No problem for this footprint"
         ]
       ],
       "meta": {
