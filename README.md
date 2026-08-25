@@ -44,7 +44,7 @@ I hope that this design will inspire people to work on similar projects, and
 that they'll be used as references to learn how to work on similar projects!  
 If you want to make any contribution, you're welcome to fork and send a pull
 request, as long as LLMs are not directly involved and you understand your
-changes!  
+changes: please refer to (HUMAN.md)[https://github.com/exentio/koyomi-lvds-hat/blob/main/HUMAN.md], thank you.  
 
 You're also welcome to make changes to any part of this project to implement
 different design choices, without having to send a pull request; however, if
